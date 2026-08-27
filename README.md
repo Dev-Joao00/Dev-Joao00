@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4F8FCC&height=180&section=header&text=Jo%C3%A3o%20Fellype&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=101720:1F3864,100:4F8FCC&height=180&section=header&text=Jo%C3%A3o%20Fellype&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=520&lines=Buscando+meu+primeiro+est%C3%A1gio+em+TI;Estudando+Java%2C+C+e+Banco+de+Dados;Aprendendo+um+pouco+mais+a+cada+dia" alt="Typing SVG" />
 
