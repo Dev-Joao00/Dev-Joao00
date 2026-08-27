@@ -5,7 +5,7 @@
 Estudante de Sistemas de Informação · Em busca do primeiro estágio em TI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-fellype-9a3ba8334)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:felipejoao6.jf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:felipejoao6@hotmail.com)
 [![Location](https://img.shields.io/badge/Maceió,_AL-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -13,8 +13,6 @@ Estudante de Sistemas de Informação · Em busca do primeiro estágio em TI
 <br>
 
 Cursando Sistemas de Informação no CESMAC. Construindo minha base em Java, C, lógica de programação e banco de dados — e aplicando isso em projetos pequenos enquanto ainda estou aprendendo.
-
-Também sou organizador do **ROGADX**, maior evento de tecnologia do Nordeste, e participei do GDG Arapiraca.
 
 <br>
 
